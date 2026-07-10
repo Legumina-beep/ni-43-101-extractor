@@ -1,0 +1,4 @@
+pydantic
+pdfplumber
+langchain-openai
+python-dotenv
